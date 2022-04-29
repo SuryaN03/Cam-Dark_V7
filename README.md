@@ -15,10 +15,16 @@
 <p>• Victim's IP Address and Port (owner only).<p>
 <p>• Knowing the location data of the victim's coordinates (only for the owner).<p>
 <p>• Save voice recordings (owner only).<p>
-<p>• running video (testing bad,next).<p>
+<p>• running video (testing bad,next) or Give me feedback from Community.<p>
 <p>• Take Photo more taking every touch of the victim on the phone screen.<p>
  
  
+ 
+ # Size Instalasi
+ <p>16.11 Mb<p>
+ 
+  
+  
  
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
@@ -28,6 +34,7 @@
 
 
 [See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
+
 
 
 
