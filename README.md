@@ -3,22 +3,39 @@
 <p align="center"><img src="cd.gif" max-width="100%%" height="auto"></p>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
+
+
 # WARNING !!
 <p>this is only educational talent and special programming for development. I and the Group and Society are not responsible for the misuse of your thesis in a criminal act.<p>
 
+ 
+ 
+# New features:
+<p>• Listen to the victim's voice directly. 
+• Victim's IP Address and Port (owner only)
+• Knowing the location data of the victim's coordinates (only for the owner)
+• Save voice recordings (owner only)
+• running video (testing bad,next)
+• Take Photo more taking every touch of the victim on the phone screen.<p>
+ 
+ 
+ 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
 
 <p>The MediaDevices.getUserMedia() method prompts the user for permission to use a media input which produces a MediaStream with tracks containing the requested types of media. That stream can include, for example, a video track (produced by either a hardware or virtual video source such as a camera, video recording device, screen sharing service, and so forth), an audio track (similarly, produced by a physical or virtual audio source like a microphone, A/D converter, or the like), and possibly other track types. </p>
 
+
+
 [See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
+
+
 
 ## Server?
 
-
-<p> with server Ngrok
-<p> I'm sorry to provide 1 server. 
-<p> because another server is under repair
+<p>with server Ngrok
+I'm sorry to provide 1 server. 
+because another server is under repair.<p>
 
 
 
@@ -56,14 +73,16 @@ Salam SuryaN3
  <p> Jangan Lupa Donasi untuk Bantu pengembangan upaya Kami.<p>
   
   
+  
+  
 <p> This is Screen io v.6 <a href="http://uzingela.co.za/surya.html"> 
 MATERIAL FILES html screen in camhack v6 </a>
 
 <b>happy hacking : ]<b>
 
 
+ 
 ## TextOn
-
 
 
 https://user-images.githubusercontent.com/99640009/163928347-fa74ab3f-3e7e-40de-996f-b49e58764bfd.mp4
@@ -88,3 +107,4 @@ Secangkir Coffee Eropa
 [![Donate to SuryaN03](https://user-images.githubusercontent.com/4301109/117404264-7aab5480-aebe-11eb-9cbd-da82d7346bb3.png)](https://sociabuzz.com/suryan3)
 
 
+ 
