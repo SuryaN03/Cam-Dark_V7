@@ -1,7 +1,10 @@
-<h1 align="center">CAM-DUMPER</h1>
+<h1 align="center">CAM-HACK V.7.0</h1>
+<h1 align="center">2022/05/01</h1>
 <p align="center"><img src="cd.gif" max-width="100%%" height="auto"></p>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
+# WARNING !!
+<p>this is only educational talent and special programming for development. I and the Group and Society are not responsible for the misuse of your thesis in a criminal act.<p>
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
@@ -30,12 +33,12 @@ $ apt install git php wget curl jq
 $ git clone https://github.com/SuryaN03/Cam-dark_V7.git
 $ cd Cam-dark_V7
 $ chmod +x camhack-v7.sh
-$ ./camhack-v7.sh atau bash camhack-v7.sh
+$ ./camhack-v7.sh Or/Atau bash camhack-v7.sh
 
 
 Keberadaan Photo Tersimpan
 $ IMAGE folder (cd IMAGE)
-$ look ur photo hack
+$ look ur photo hack dear victim
 
 
 Pemindahan Photo ke internal Hp
@@ -50,6 +53,9 @@ Enjoy ...
 Salam SuryaN3
 ```
 
+ <p> Jangan Lupa Donasi untuk Bantu pengembangan upaya Kami.<p>
+  
+  
 <p> This is Screen io v.6 <a href="http://uzingela.co.za/surya.html"> 
 MATERIAL FILES html screen in camhack v6 </a>
 
@@ -77,6 +83,8 @@ https://user-images.githubusercontent.com/99640009/163899325-4d29c38c-5bb5-4564-
 ## SUPPORT DONASI[♡]
 Secangkir Coffee Eropa
 
+<p>Klik Donasi, Bantu Kami Bro!! <p>
+  
 [![Donate to SuryaN03](https://user-images.githubusercontent.com/4301109/117404264-7aab5480-aebe-11eb-9cbd-da82d7346bb3.png)](https://sociabuzz.com/suryan3)
 
 
