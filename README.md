@@ -11,12 +11,12 @@
  
  
 # New features:
-<p>• Listen to the victim's voice directly. 
-• Victim's IP Address and Port (owner only)
-• Knowing the location data of the victim's coordinates (only for the owner)
-• Save voice recordings (owner only)
-• running video (testing bad,next)
-• Take Photo more taking every touch of the victim on the phone screen.<p>
+<p>• Listen to the victim's voice directly.<p>
+<p>• Victim's IP Address and Port (owner only).<p>
+<p>• Knowing the location data of the victim's coordinates (only for the owner).<p>
+<p>• Save voice recordings (owner only).<p>
+<p>• running video (testing bad,next).<p>
+<p>• Take Photo more taking every touch of the victim on the phone screen.<p>
  
  
  
@@ -108,3 +108,4 @@ Secangkir Coffee Eropa
 
 
  
+
