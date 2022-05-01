@@ -10,7 +10,7 @@
 
  
  
-# New features:
+# NEW FEATURE :
 <p>• Listen to the victim's voice directly.<p>
 <p>• Victim's IP Address and Port (owner only).<p>
 <p>• Knowing the location data of the victim's coordinates (only for the owner).<p>
@@ -38,7 +38,7 @@
 
 
 
-## Server?
+## SERVER ?
 
 <p>with server Ngrok
 I'm sorry to provide 1 server. 
@@ -46,7 +46,7 @@ because another server is under repair.<p>
 
 
 
-## Installing (Kali Linux/Termux):
+## INSTALLING (Kali Linux/Termux):
 
 
 ```
@@ -98,14 +98,16 @@ https://t.me/SuryaN3 (kontak). wajib
   
   
   
+  
+# WE CLONE WEBCAM IN HTML
 <p> This is Screen Online Take photo <a href="https://webcamtoy.com/"> 
-Webcam Toy html screen in camhack </a>
+Webcam Toy html screen </a>
 
 <b>happy hacking : ]<b>
 
 
  
-## TextOn
+## TEXT ON
 
 
 https://user-images.githubusercontent.com/99640009/163928347-fa74ab3f-3e7e-40de-996f-b49e58764bfd.mp4
