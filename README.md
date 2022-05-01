@@ -73,7 +73,7 @@ $ mv -f CoPasNamaPoto /sdcard
 Ingat di direktory Memori Internal yah
 Bukan di Memory external.
  
-   <p>======================<p>
+   ===============================
     
 $ Give us a testimonial and record a video of your success using this script at:
 https://t.me/SuryaN3 (contack).
@@ -81,8 +81,8 @@ https://t.me/SuryaN3 (contack).
 $ Beri kami testimoni dan rekam video kesuksesan Anda menggunakan script ini di:
 https://t.me/SuryaN3 (kontak). wajib
 
-<p>Enjoy ...<p>
-<p>Salam SuryaN3<p>
+Enjoy ...
+Salam SuryaN3
  
 ```
 
@@ -118,7 +118,7 @@ https://user-images.githubusercontent.com/99640009/163899325-4d29c38c-5bb5-4564-
 ## SUPPORT DONASI[♡]
 Secangkir Coffee Eropa
 
-<p>Klik Donasi, Bantu Kami Bro!! <p>
+<p>Klik Donasi, Bantu Kami Mengembangkan Bro!! <p>
   
 [![Donate to SuryaN03](https://user-images.githubusercontent.com/4301109/117404264-7aab5480-aebe-11eb-9cbd-da82d7346bb3.png)](https://sociabuzz.com/suryan3)
 
