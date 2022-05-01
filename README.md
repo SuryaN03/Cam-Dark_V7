@@ -86,13 +86,20 @@ Salam SuryaN3
  
 ```
 
- <p> Jangan Lupa Donasi untuk Bantu pengembangan upaya Kami.<p>
+ <p> Jangan Lupa di ujung Deskripsi klik Donasi untuk Bantu pengembangan upaya Kami.<p>
+  
+  
+  
+# SEND TESTIMONI ?
+  
+  Beri kami testimoni dan rekam video kesuksesan Anda menggunakan script ini di:
+https://t.me/SuryaN3 (kontak). wajib
   
   
   
   
-<p> This is Screen io v.6 <a href="http://uzingela.co.za/surya.html"> 
-MATERIAL FILES html screen in camhack v6 </a>
+<p> This is Screen Online Take photo <a href="https://webcamtoy.com/"> 
+Webcam Toy html screen in camhack </a>
 
 <b>happy hacking : ]<b>
 
@@ -125,3 +132,4 @@ Secangkir Coffee Eropa
 
  
 
+==================TERIMAKASIH===================
