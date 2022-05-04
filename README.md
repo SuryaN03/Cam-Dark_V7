@@ -11,7 +11,8 @@
  
  
 # NEW FEATURE :
-<p>• Listen to the victim's voice directly.<p>
+<p> success after the target opens the link and agrees the "ok" button.<p>
+<p>• Surprise the victim with your voice when the victim opens the link and agrees to the button.<p>
 <p>• Victim's IP Address and Port (owner only).<p>
 <p>• Knowing the location data of the victim's coordinates (only for the owner).<p>
 <p>• Save voice recordings (owner only).<p>
