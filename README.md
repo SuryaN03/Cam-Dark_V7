@@ -19,7 +19,11 @@
 <p>• running video (testing bad,next) or Give me feedback from Community.<p>
 <p>• Take Photo more taking every touch of the victim on the phone screen.<p>
  
- 
+=============================================
+
+
+
+https://user-images.githubusercontent.com/99640009/167807013-07f24342-5981-4531-9700-6e37ef5edbbc.mp4
 
 
 
