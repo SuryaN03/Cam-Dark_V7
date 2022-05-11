@@ -142,10 +142,11 @@ Secangkir Coffee Eropa
 
 
  
-#MY CONTACK :
+ 
+## MY CONTACK :
 
-<p>[•] Via Mail : 
-(<a href="mailto: SuryaN3@programmer.net?subject=titel">Pesan lewat Email</a>)<p>
+<p>[•] Via Mail : <p>
+<p>Klik <a href="mailto: SuryaN3@programmer.net?subject=titel">SuryaN3@programmer.net</a> <p>
 
  
 <p>[•] Via Telegram :<p>
