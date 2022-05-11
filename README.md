@@ -143,11 +143,12 @@ Secangkir Coffee Eropa
 
  
 #MY CONTACK :
-[•] Via Mail : SuryaN3@programmer.net
-<p>(<a href="mailto: SuryaN3@programmer.net?subject=titel">Pesan lewat Email</a>)<p>
 
-[•] Via Telegram
-[![images-removebg-preview-1](https://user-images.githubusercontent.com/99640009/167852231-c37328d2-76f9-4d8c-9cc7-57e082bf7af7.png)](https://t.me/SuryaN3)
+<p>[•] Via Mail : SuryaN3@programmer.net
+(<a href="mailto: SuryaN3@programmer.net?subject=titel">Pesan lewat Email</a>)<p>
+
+<p>[•] Via Telegram
+[![images-removebg-preview-1](https://user-images.githubusercontent.com/99640009/167852231-c37328d2-76f9-4d8c-9cc7-57e082bf7af7.png)](https://t.me/SuryaN3)<p>
 
 
  
