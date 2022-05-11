@@ -20,6 +20,10 @@
 <p>• Take Photo more taking every touch of the victim on the phone screen.<p>
  
  
+
+
+
+=============================================
  
  # Size Instalasi
  <p>16.11 Mb<p>
